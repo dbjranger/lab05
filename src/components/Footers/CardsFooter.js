@@ -67,10 +67,10 @@ class CardsFooter extends React.Component {
             <Row className="row-grid align-items-center my-md">
               <Col lg="6">
                 <h3 className="text-primary font-weight-light mb-2">
-                  Thank you for supporting us!
+                  
                 </h3>
                 <h4 className="mb-0 font-weight-light">
-                  Let's get in touch on any of these platforms.
+                  
                 </h4>
               </Col>
               <Col className="text-lg-center btn-wrapper" lg="6">
@@ -81,9 +81,9 @@ class CardsFooter extends React.Component {
                   id="tooltip475038074"
                   target="_blank"
                 >
-                  <span className="btn-inner--icon">
+                  {/* <span className="btn-inner--icon">
                     <i className="fa fa-twitter" />
-                  </span>
+                  </span> */}
                 </Button>
                 <UncontrolledTooltip delay={0} target="tooltip475038074">
                   Follow us
@@ -95,9 +95,9 @@ class CardsFooter extends React.Component {
                   id="tooltip837440414"
                   target="_blank"
                 >
-                  <span className="btn-inner--icon">
+                  {/* <span className="btn-inner--icon">
                     <i className="fa fa-facebook-square" />
-                  </span>
+                  </span> */}
                 </Button>
                 <UncontrolledTooltip delay={0} target="tooltip837440414">
                   Like us
@@ -119,7 +119,7 @@ class CardsFooter extends React.Component {
                 <Button
                   className="btn-icon-only rounded-circle ml-1"
                   color="github"
-                  href="https://github.com/creativetimofficial"
+                  href="https://github.com/dbjranger"
                   id="tooltip495507257"
                   target="_blank"
                 >
@@ -141,7 +141,7 @@ class CardsFooter extends React.Component {
                     href="https://www.creative-tim.com?ref=adsr-footer"
                     target="_blank"
                   >
-                    Creative Tim
+                    Don Bandy
                   </a>
                   .
                 </div>
@@ -153,12 +153,12 @@ class CardsFooter extends React.Component {
                       href="https://www.creative-tim.com?ref=adsr-footer"
                       target="_blank"
                     >
-                      Creative Tim
+                      Creative Tommy
                     </NavLink>
                   </NavItem>
                   <NavItem>
                     <NavLink
-                      href="https://www.creative-tim.com/presentation?ref=adsr-footer"
+                      href="https://github.com/dbjranger"
                       target="_blank"
                     >
                       About Us
@@ -174,10 +174,10 @@ class CardsFooter extends React.Component {
                   </NavItem>
                   <NavItem>
                     <NavLink
-                      href="https://github.com/creativetimofficial/argon-design-system-react/blob/main/LICENSE.md"
+                      href="https://github.com/dbjranger"
                       target="_blank"
                     >
-                      MIT License
+                      MIT 
                     </NavLink>
                   </NavItem>
                 </Nav>

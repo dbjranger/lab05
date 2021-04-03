@@ -147,7 +147,7 @@ class Profile extends React.Component {
                           Technology and Surfing are two of my passions.  I enjoy taking on new challenges and expanding my horizons.  I love working with smart people and creating awesome apps that solve real life issues and improve the overall quality of life for the user. 
                         </p>
                         <a href="#pablo" onClick={e => e.preventDefault()}>
-                          Show more
+                          {/* Show more */}
                         </a>
                       </Col>
                     </Row>
