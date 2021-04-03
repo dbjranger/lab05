@@ -124,31 +124,27 @@ class Profile extends React.Component {
                   </Row>
                   <div className="text-center mt-5">
                     <h3>
-                      Jessica Jones{" "}
-                      <span className="font-weight-light">, 27</span>
+                      Don Bandy Jr.{" "}
+                      <span className="font-weight-light">, 39</span>
                     </h3>
                     <div className="h6 font-weight-300">
                       <i className="ni location_pin mr-2" />
-                      Bucharest, Romania
+                      Oceanside, California
                     </div>
                     <div className="h6 mt-4">
                       <i className="ni business_briefcase-24 mr-2" />
-                      Solution Manager - Creative Tim Officer
+                      Aspiring Software Developer
                     </div>
                     <div>
                       <i className="ni education_hat mr-2" />
-                      University of Computer Science
+                       San Diego State University (MBA) <br></br>  University of Los Angeles California (BS)
                     </div>
                   </div>
                   <div className="mt-5 py-5 border-top text-center">
                     <Row className="justify-content-center">
                       <Col lg="9">
                         <p>
-                          An artist of considerable range, Ryan — the name taken
-                          by Melbourne-raised, Brooklyn-based Nick Murphy —
-                          writes, performs and records all of his own music,
-                          giving it a warm, intimate feel with a solid groove
-                          structure. An artist of considerable range.
+                          Technology and Surfing are two of my passions.  I enjoy taking on new challenges and expanding my horizons.  I love working with smart people and creating awesome apps that solve real life issues and improve the overall quality of life for the user. 
                         </p>
                         <a href="#pablo" onClick={e => e.preventDefault()}>
                           Show more
