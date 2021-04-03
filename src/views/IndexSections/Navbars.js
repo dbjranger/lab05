@@ -342,9 +342,9 @@ class Navbars extends React.Component {
                       href="#pablo"
                       onClick={e => e.preventDefault()}
                     >
-                      <i className="fa fa-twitter" />
+                      <i className="fab fa-linkedin-in" />
                       <span className="nav-link-inner--text d-lg-none">
-                        Twitter
+                        Tweeter
                       </span>
                     </NavLink>
                   </NavItem>

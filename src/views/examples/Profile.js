@@ -85,7 +85,7 @@ class Profile extends React.Component {
                       lg="4"
                     >
                       <div className="card-profile-actions py-4 mt-lg-0">
-                        <Button
+                        {/* <Button
                           className="mr-4"
                           color="info"
                           href="#pablo"
@@ -102,22 +102,22 @@ class Profile extends React.Component {
                           size="sm"
                         >
                           Message
-                        </Button>
+                        </Button> */}
                       </div>
                     </Col>
                     <Col className="order-lg-1" lg="4">
                       <div className="card-profile-stats d-flex justify-content-center">
                         <div>
-                          <span className="heading">22</span>
-                          <span className="description">Friends</span>
+                          <span className="heading">1000+</span>
+                          <span className="description">Waves Surfed</span>
                         </div>
                         <div>
-                          <span className="heading">10</span>
-                          <span className="description">Photos</span>
+                          <span className="heading">20+</span>
+                          <span className="description">Coding Projects</span>
                         </div>
                         <div>
-                          <span className="heading">89</span>
-                          <span className="description">Comments</span>
+                          <span className="heading"></span>
+                          <span className="description"></span>
                         </div>
                       </div>
                     </Col>
@@ -147,13 +147,14 @@ class Profile extends React.Component {
                           Technology and Surfing are two of my passions.  I enjoy taking on new challenges and expanding my horizons.  I love working with smart people and creating awesome apps that solve real life issues and improve the overall quality of life for the user. 
                         </p>
                         <a href="#pablo" onClick={e => e.preventDefault()}>
-                          Show more
+                          {/* Show more */}
                         </a>
                       </Col>
                     </Row>
                   </div>
                 </div>
               </Card>
+              
             </Container>
           </section>
         </main>
